@@ -4,4 +4,6 @@ let nyawa = '20HP';
 
 const namaPemain = 'selen';
 
-console.log (`character ku bernama ${namaPemain}, skornya bertotal +${skor} karna telah menyelesaikan satu tugas, menyisakan ${nyawa} dan telah mencapai level ${level}`)
+console.log (`character ku bernama ${namaPemain}`)
+console.log (`skornya bertotal +${skor} karna telah menyelesaikan satu tugas`)
+console.log (`menyisakan ${nyawa} dan telah mencapai level ${level}`)
